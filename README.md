@@ -4,6 +4,9 @@
   ```
   pip install python-dotenv
   ```
+   ```
+  pip3 install python-dotenv
+  ```
 * execute.pyを同じディレクトリに.envファイルを作成
 
   下記を記載
